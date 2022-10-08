@@ -1,11 +1,11 @@
-# Hisoka-Morou
+# YanzBotz 
 Script WhatsApp Bot Multi Device
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
 <p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/74e79496bb3389d0dcb85.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Hisoka-Morou</h1>
 
@@ -80,6 +80,7 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`Hisoka775`](https://github.com/Hisoka775)
+* [`DikaArdnt`](https://github.com/Hisoka-tumorou)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
