@@ -20,7 +20,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ```bash
 git clone https://github.com/YanzBotz/Yanz-Botz.
-cd Hisoka-Morou
+cd Yanz-Botz.
 npm install
 ```
 
