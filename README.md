@@ -7,15 +7,9 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 <p align="center">
 	<img src="https://telegra.ph/file/74e79496bb3389d0dcb85.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">YanzBotz</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-
 
 ## UNTUK PENGGUNA WINDOWS/RDP
 
@@ -25,7 +19,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
+git clone https://github.com/YanzBotz/Yanz-Botz.
 cd Hisoka-Morou
 npm install
 ```
@@ -46,8 +40,8 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
+git clone https://github.com/YanzBotz/Yanz-Botz.
+cd YanzBotz
 npm install
 ```
 
@@ -80,11 +74,11 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 * [`zhwzein`](https://github.com/zhwzein)
 * [`CAF-ID`](https://github.com/CAF-ID)
 * [`Hisoka775`](https://github.com/Hisoka775)
-* [`DikaArdnt`](https://github.com/Hisoka-tumorou)
+* [`DikaArdnt`](https://github.com/DikaArdnt/Hisoka-Morrow)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`Paypal`](Belum tersedia)
+* [`Saweria`](Belum tersedia)
