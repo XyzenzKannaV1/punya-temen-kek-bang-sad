@@ -3,6 +3,7 @@ Script WhatsApp Bot Multi Device
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+"Janganlah engkau menjual sesuatu yang bukan milikmu," (HR. Abu Dawud)
 
 <p align="center">
 	<img src="https://telegra.ph/file/74e79496bb3389d0dcb85.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
