@@ -18,17 +18,17 @@ global.APIKeys = {
 }
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '085883359262' //Dana
-global.povo = '085883359262' //Ovo
-global.pgopay = '085883359262' //Gopay
-global.ppulsa = '085883359262' //Pulsa 
-global.ppulsa2 = '085883359262' //Pulsa2
+global.pdana = '089505054287' //Dana
+global.povo = '-' //Ovo
+global.pgopay = '-' //Gopay
+global.ppulsa = '089505054287' //Pulsa 
+global.ppulsa2 = '089512810601' //Pulsa2
 global.psaweria = '-' //Saweria 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '6285692114469' //Nomor Bot
-global.nomorown = '6285883359262' //Nomor
-global.namabot = 'YanzBotz' //Nama bot
-global.namaown = 'YanzBotz' //Nama owner
+global.nomorbot = '6289512810601' //Nomor Bot
+global.nomorown = '6289505054287' //Nomor
+global.namabot = 'Patrick' //Nama bot
+global.namaown = 'Rajadev' //Nama owner
 /*⫘⫘⫘⫘GLOBAL JAVA SCRIPT⫘⫘⫘⫘⫘*/
 global.javasc = 'JavaScript'
 global.node = 'Node.js'
@@ -47,10 +47,10 @@ global.act = {
 		owner:'Only Owner Allowed'
 }
 /*⫘⫘⫘⫘OTHER⫘⫘⫘⫘⫘*/
-global.owner = ['6285883359262','6285692114469']
-global.premium = ['628588359262']
-global.packname = 'YanzBotz'
-global.author = 'YanzBotz'
+global.owner = ['6289505054287','6289512810601']
+global.premium = ['6289505054287']
+global.packname = ''
+global.author = '@rajadev.id'
 global.sessionName = 'YanzBot'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
